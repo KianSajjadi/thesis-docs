@@ -1,0 +1,6 @@
+[submodule "ert_linux"]
+	path = ert_linux
+	url = https://github.com/CTU-IIG/ert_linux
+[submodule "rpi-rt-kernel"]
+	path = rpi-rt-kernel
+	url = https://github.com/remusmp/rpi-rt-kernel
